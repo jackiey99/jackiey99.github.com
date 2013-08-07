@@ -31,10 +31,10 @@ When you don't need the samples anymore just delete the `_posts/core-samples` fo
     $ rm -rf _posts/core-samples
 
 Here's a sample "posts list". -->
-
+### My Blog
 <ul class="posts">
   {% for post in site.posts %}
-    <li><h4><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> </h4>
+    <li><h4><font color="green"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> </font></h4>
     <p>{{ post.excerpt }}</p></li>
   {% endfor %}
 </ul>
