@@ -83,7 +83,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : we-cannot-stop
     livefyre :
       site_id : 123
     intensedebate :
@@ -129,3 +129,5 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+
+excerpt_separator: <!--more-->
