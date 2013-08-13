@@ -1,6 +1,6 @@
 ---
 layout: page
-title: We cannot stop
+title: We cannot stop -- BLOG
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -31,7 +31,6 @@ When you don't need the samples anymore just delete the `_posts/core-samples` fo
     $ rm -rf _posts/core-samples
 
 Here's a sample "posts list". -->
-### My Blog
 <ul class="posts">
   {% for post in site.posts %}
     <li><h4><font color="green"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> </font></h4>
@@ -39,9 +38,5 @@ Here's a sample "posts list". -->
   {% endfor %}
 </ul>
 
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
