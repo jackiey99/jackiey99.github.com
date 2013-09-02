@@ -18,4 +18,4 @@ Providence虽然是RI的首府，可是并没有大城市的那种气派，显�
 
 <img src="{{site.url}}/assets/images/cliffwalk2.jpg" alt="Ptown" style="width: 780px;"/>
 
-坐上回Providence的巴士正好赶上回Boston的火车...
+坐上回Providence的巴士正好赶上回Boston的火车... *End*
