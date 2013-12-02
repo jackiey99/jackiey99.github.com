@@ -26,3 +26,8 @@ I come across an artical titled "How to be a successful PhD student" by Mark Dre
 15.Version control (e.g., git)
 16.How to use a debugger(e.g.,jdb)
 
+###Helpful Links
+1. [Learning 30 Technologies in 30 Days](https://www.openshift.com/blogs/learning-30-technologies-in-30-days-a-developer-challenge)
+2. [Coding skills college students should have](http://blog.xdite.net/posts/2013/11/22/opensource-cheatsheets?utm_campaign=Manong_Weekly_Issue_11&utm_medium=EDM&utm_source=Manong_Weekly)
+3. [Basic Data Structure and Algorithms in Linux kernel](http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773#19773)
+4. [Five interesting UNIX tricks](http://blog.jobbole.com/51455/)
