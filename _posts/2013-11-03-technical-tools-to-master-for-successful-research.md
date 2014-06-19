@@ -18,13 +18,13 @@ I come across an artical titled "How to be a successful PhD student" by Mark Dre
 7. diff
 8. How to install software locally
 9. Emacs or vi
-10.Eclips or intellij
-11.Screen (and why you need it)
-12.Make
-13.Basic R plotting commands
-14.Grid engine(e.g., qsub,qstat,qlogin)
-15.Version control (e.g., git)
-16.How to use a debugger(e.g.,jdb)
+10. Eclips or intellij
+11. Screen (and why you need it)
+12. Make
+13. Basic R plotting commands
+14. Grid engine(e.g., qsub,qstat,qlogin)
+15. Version control (e.g., git)
+16. How to use a debugger(e.g.,jdb)
 
 ###Helpful Links
 1. [Learning 30 Technologies in 30 Days](https://www.openshift.com/blogs/learning-30-technologies-in-30-days-a-developer-challenge)
