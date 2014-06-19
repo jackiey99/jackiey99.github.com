@@ -6,7 +6,7 @@ category: casual
 tags: [University of Delaware, meeting, network science]
 ---
 {% include JB/setup %}
-It's essentially a meeting held jointly by ITA and CTA to discuss about potential collaboraton. As such, the meeting is not about presenting papers as usual academic conferences are, but on summarizing previous work and pointing out future directions. The talks could be general without any technical or mathematical details. The meetings might seem dull if you have no background understanding. 
+It's essentially a meeting held jointly by ITA and CTA to discuss about potential collaboration. As such, the meeting is not about presenting papers as usual academic conferences are, but on summarizing previous work and pointing out future directions. The talks could be general without any technical or mathematical details. The meetings might seem dull if you have no background understanding. 
   <!--more-->
 
 It happened at University of Delaware in Newark, DE, a small city 1.5h by train from New York Penn Station. The inn I stayed is 1h walk from Clayton Hall -- the conference center. I had to take a cab every day from my inn to the hall. I once walked back to my inn. I bet I was the only person walking on the street! The scenary is dramatically in contrast to the busy New York City. In spite of this, I managed to find a good Chinese restaurant and got boiled spicy fish delivered to my inn on the
