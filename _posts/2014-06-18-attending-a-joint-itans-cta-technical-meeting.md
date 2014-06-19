@@ -3,7 +3,7 @@ layout: post
 title: "Attending a joint ITA/NS CTA technical meeting"
 description: ""
 category: casual 
-tags: [Delaware, meeting, network science]
+tags: [University of Delaware, meeting, network science]
 ---
 {% include JB/setup %}
 It's essentially a meeting held jointly by ITA and CTA to discuss about potential collaboraton. As such, the meeting is not about presenting papers as usual academic conferences are, but on summarizing previous work and pointing out future directions. The talks could be general without any technical or mathematical details. The meetings might seem dull if you have no background understanding. 
